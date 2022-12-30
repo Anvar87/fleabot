@@ -1,13 +1,18 @@
 {
   "files": {
-    "main.css": "/fleabot/static/css/main.9ddc8ad9.css",
-    "main.js": "/fleabot/static/js/main.e58b25ec.js",
+    "main.css": "/fleabot/static/css/main.9d510660.css",
+    "main.js": "/fleabot/static/js/main.9bdd3504.js",
+    "static/js/787.9534837b.chunk.js": "/fleabot/static/js/787.9534837b.chunk.js",
+    "static/media/12454-787bigeek_image1.jpeg": "/fleabot/static/media/12454-787bigeek_image1.9c9867478e259f4a761d.jpeg",
+    "static/media/18503-63Deeppurple.jpg": "/fleabot/static/media/18503-63Deeppurple.c10506b7d3a5d4aa4d0e.jpg",
+    "static/media/14677-597Pink.jpg": "/fleabot/static/media/14677-597Pink.41f7f260cbc8df8a002e.jpg",
     "index.html": "/fleabot/index.html",
-    "main.9ddc8ad9.css.map": "/fleabot/static/css/main.9ddc8ad9.css.map",
-    "main.e58b25ec.js.map": "/fleabot/static/js/main.e58b25ec.js.map"
+    "main.9d510660.css.map": "/fleabot/static/css/main.9d510660.css.map",
+    "main.9bdd3504.js.map": "/fleabot/static/js/main.9bdd3504.js.map",
+    "787.9534837b.chunk.js.map": "/fleabot/static/js/787.9534837b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ddc8ad9.css",
-    "static/js/main.e58b25ec.js"
+    "static/css/main.9d510660.css",
+    "static/js/main.9bdd3504.js"
   ]
 }
