@@ -1,18 +1,23 @@
 {
   "files": {
-    "main.css": "/fleabot/static/css/main.134f396e.css",
-    "main.js": "/fleabot/static/js/main.95d31ccb.js",
+    "main.css": "/fleabot/static/css/main.67658e2f.css",
+    "main.js": "/fleabot/static/js/main.0b05834c.js",
     "static/js/787.9534837b.chunk.js": "/fleabot/static/js/787.9534837b.chunk.js",
     "static/media/12454-787bigeek_image1.jpeg": "/fleabot/static/media/12454-787bigeek_image1.9c9867478e259f4a761d.jpeg",
     "static/media/18503-63Deeppurple.jpg": "/fleabot/static/media/18503-63Deeppurple.c10506b7d3a5d4aa4d0e.jpg",
     "static/media/14677-597Pink.jpg": "/fleabot/static/media/14677-597Pink.41f7f260cbc8df8a002e.jpg",
+    "static/media/favorite-like-love.svg": "/fleabot/static/media/favorite-like-love.1a2e86c9f09f4dcd42ad0db51513298f.svg",
+    "static/media/delivery-fast-solid.svg": "/fleabot/static/media/delivery-fast-solid.19987f15984aeaa64a29e85f97dbc73d.svg",
     "index.html": "/fleabot/index.html",
-    "main.134f396e.css.map": "/fleabot/static/css/main.134f396e.css.map",
-    "main.95d31ccb.js.map": "/fleabot/static/js/main.95d31ccb.js.map",
+    "static/media/home-filled.svg": "/fleabot/static/media/home-filled.41e8fc4b337c6cc532c2de131dc8be3e.svg",
+    "static/media/shopping-cart.svg": "/fleabot/static/media/shopping-cart.06b4b7157d867a33c98d4cdd29d4b7fc.svg",
+    "static/media/person-fill.svg": "/fleabot/static/media/person-fill.ac28027987e8fe368d4e2719fc9981ff.svg",
+    "main.67658e2f.css.map": "/fleabot/static/css/main.67658e2f.css.map",
+    "main.0b05834c.js.map": "/fleabot/static/js/main.0b05834c.js.map",
     "787.9534837b.chunk.js.map": "/fleabot/static/js/787.9534837b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.134f396e.css",
-    "static/js/main.95d31ccb.js"
+    "static/css/main.67658e2f.css",
+    "static/js/main.0b05834c.js"
   ]
 }
