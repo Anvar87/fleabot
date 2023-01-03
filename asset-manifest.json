@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/fleabot/static/css/main.0d93a636.css",
-    "main.js": "/fleabot/static/js/main.5b3fe079.js",
+    "main.css": "/fleabot/static/css/main.db3d98ce.css",
+    "main.js": "/fleabot/static/js/main.441f726c.js",
     "static/js/787.9534837b.chunk.js": "/fleabot/static/js/787.9534837b.chunk.js",
     "static/media/12454-787bigeek_image1.jpeg": "/fleabot/static/media/12454-787bigeek_image1.9c9867478e259f4a761d.jpeg",
     "static/media/18503-63Deeppurple.jpg": "/fleabot/static/media/18503-63Deeppurple.c10506b7d3a5d4aa4d0e.jpg",
@@ -10,14 +10,17 @@
     "static/media/delivery-fast-solid.svg": "/fleabot/static/media/delivery-fast-solid.19987f15984aeaa64a29e85f97dbc73d.svg",
     "index.html": "/fleabot/index.html",
     "static/media/home-filled.svg": "/fleabot/static/media/home-filled.41e8fc4b337c6cc532c2de131dc8be3e.svg",
+    "static/media/delete-trash.svg": "/fleabot/static/media/delete-trash.c08282333b9e77071b2bbc24c88951df.svg",
     "static/media/shopping-cart.svg": "/fleabot/static/media/shopping-cart.477c488c2b76fe979ef0efbb96fc58dd.svg",
+    "static/media/plus.svg": "/fleabot/static/media/plus.734087e2a23b2121fa2bdae2e255a914.svg",
     "static/media/person-fill.svg": "/fleabot/static/media/person-fill.a1045946b42bcd3a73f441702e1abc78.svg",
-    "main.0d93a636.css.map": "/fleabot/static/css/main.0d93a636.css.map",
-    "main.5b3fe079.js.map": "/fleabot/static/js/main.5b3fe079.js.map",
+    "static/media/minus.svg": "/fleabot/static/media/minus.c6d820ac83273f1a24b411d1e4d96d9e.svg",
+    "main.db3d98ce.css.map": "/fleabot/static/css/main.db3d98ce.css.map",
+    "main.441f726c.js.map": "/fleabot/static/js/main.441f726c.js.map",
     "787.9534837b.chunk.js.map": "/fleabot/static/js/787.9534837b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d93a636.css",
-    "static/js/main.5b3fe079.js"
+    "static/css/main.db3d98ce.css",
+    "static/js/main.441f726c.js"
   ]
 }
