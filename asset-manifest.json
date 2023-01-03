@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fleabot/static/css/main.8a802880.css",
+    "main.css": "/fleabot/static/css/main.3c383560.css",
     "main.js": "/fleabot/static/js/main.cb3cae1d.js",
     "static/js/787.9534837b.chunk.js": "/fleabot/static/js/787.9534837b.chunk.js",
     "static/media/12454-787bigeek_image1.jpeg": "/fleabot/static/media/12454-787bigeek_image1.9c9867478e259f4a761d.jpeg",
@@ -15,12 +15,12 @@
     "static/media/plus.svg": "/fleabot/static/media/plus.734087e2a23b2121fa2bdae2e255a914.svg",
     "static/media/person-fill.svg": "/fleabot/static/media/person-fill.a1045946b42bcd3a73f441702e1abc78.svg",
     "static/media/minus.svg": "/fleabot/static/media/minus.c6d820ac83273f1a24b411d1e4d96d9e.svg",
-    "main.8a802880.css.map": "/fleabot/static/css/main.8a802880.css.map",
+    "main.3c383560.css.map": "/fleabot/static/css/main.3c383560.css.map",
     "main.cb3cae1d.js.map": "/fleabot/static/js/main.cb3cae1d.js.map",
     "787.9534837b.chunk.js.map": "/fleabot/static/js/787.9534837b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a802880.css",
+    "static/css/main.3c383560.css",
     "static/js/main.cb3cae1d.js"
   ]
 }
